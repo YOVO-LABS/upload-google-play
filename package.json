@@ -10,15 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/r0adkll/upload-google-play.git"
+    "url": "git+https://github.com/YOVO-LABS/upload-google-play.git"
   },
   "keywords": [
     "actions",
     "node",
     "setup"
   ],
-  "author": "r0adkll",
-  "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.2",
     "@actions/exec": "^1.0.3",
