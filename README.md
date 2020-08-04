@@ -57,7 +57,7 @@ The mapping.txt file used to de-obfuscate your stack traces from crash reports
 ## Example usage
 
 ```yaml
-uses: r0adkll/upload-google-play@v1
+uses: YOVO-LABS/upload-google-play@master
 with:
   serviceAccountJson: ${{ SERVICE_ACCOUNT_JSON }}
   packageName: com.example.MyApp
